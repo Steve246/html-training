@@ -1,0 +1,19 @@
+* {
+    text-align: center;
+}
+
+h2 {
+    color: brown;
+    font-family: 'Courier New';
+}
+
+.h2-version-new {
+    color: greenyellow;
+    font-family:'Courier New';
+
+}
+
+.img {
+    width: 100px;
+    height: 100px;
+}
